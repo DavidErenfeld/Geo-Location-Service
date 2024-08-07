@@ -1,0 +1,5 @@
+# Docker-related files
+*.log
+/tmp/
+/dist/
+/node_modules/
